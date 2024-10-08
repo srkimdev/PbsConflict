@@ -51,9 +51,7 @@
 		DC5D50302CB4CCD7005ECDD1 /* PbxConflict */ = {
 			isa = PBXGroup;
 			children = (
-				DC5D50312CB4CCD7005ECDD1 /* PbxConflictApp.swift */,
-				DC5D50332CB4CCD7005ECDD1 /* ContentView.swift */,
-				DC5D50352CB4CCD9005ECDD1 /* Assets.xcassets */,
+				DC5D503F2CB4D1BE005ECDD1 /* Bran */,
 				DC5D50372CB4CCD9005ECDD1 /* Preview Content */,
 			);
 			path = PbxConflict;
@@ -65,6 +63,16 @@
 				DC5D50382CB4CCD9005ECDD1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		DC5D503F2CB4D1BE005ECDD1 /* Bran */ = {
+			isa = PBXGroup;
+			children = (
+				DC5D50312CB4CCD7005ECDD1 /* PbxConflictApp.swift */,
+				DC5D50332CB4CCD7005ECDD1 /* ContentView.swift */,
+				DC5D50352CB4CCD9005ECDD1 /* Assets.xcassets */,
+			);
+			path = Bran;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
